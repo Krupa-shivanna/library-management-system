@@ -1,0 +1,144 @@
+{
+  "HotelInformation": [
+    {
+      "id": 1,
+      "Hotel_Name": "The Only Place",
+      "city": "Bengaluru",
+      "Specialty": "Chicken and Beef Steak, and Lasagna",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 2,
+      "Hotel_Name": "Truffles Koramangala",
+      "city": "Koramangala, Bengaluru",
+      "Specialty": "Burgers and Steak",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 3,
+      "Hotel_Name": "Smally’s Resto Cafe",
+      "city": "Ashok Nagar, Bengaluru",
+      "Specialty": "Snicker Shake, Thick Shakes, Peri Peri Chicken Steak, and Chicken Wings",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 4,
+      "Hotel_Name": "Treat Restaurant, Indiranagar",
+      "city": "Indiranagar, Bengaluru",
+      "Specialty": "North Indian, Butter Chicken, Shahi Paneer",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 5,
+      "Hotel_Name": " Koshy’s Restaurant",
+      "city": " Ashok Nagar, Bengaluru",
+      "Specialty": " Coffee, Chocolate Shake, Caramel Custard",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 6,
+      "Hotel_Name": " Corner House Ice Cream",
+      "city": "Koramangala, Bengaluru",
+      "Specialty": " Hot Chocolate Fudge, Brownie Sundae, and Apple Pie",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 7,
+      "Hotel_Name": "Mavalli Tiffin Room (MTR), Lalbagh Road",
+      "city": "Sampangi Rama Nagar, Bengaluru",
+      "Specialty": " Dosas, Idli, and Badam Halwa ",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 8,
+      "Hotel_Name": "Shri Sagar CTR (Central Tiffin Room)",
+      "city": "Malleshwaram, Bengaluru",
+      "Specialty": " Dosas",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 9,
+      "Hotel_Name": "Kollapuri's Non Veg",
+      "city": "Bengaluru",
+      "Specialty": "Chillo-Chiken,Chiken-liver,Mutton-dry",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 10,
+      "Hotel_Name": "Vidyarthi Bhavan",
+      "city": "Basavanagudi,Bengaluru",
+      "Specialty": "Masala-Dosa ",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 11,
+      "Hotel_Name": "Udupi Sri Krishna Bhavan",
+      "city": "Basavanagudi,Bengaluru",
+      "Specialty": "South-Indian Meals,Masala-Dosa ,Idli,Puri",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 12,
+      "Hotel_Name": "Roti Ghar",
+      "city": "Basavanagudi,Bengaluru",
+      "Specialty": " South-Indian Meals,Shavige bath",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 13,
+      "Hotel_Name": "Big Brewsky",
+      "city": "Sarjapur Road,Bengaluru",
+      "Specialty": "North Indian, Finger food, and Craft beer",
+      "RestaurantType": "Non-Vegetarian"
+    },
+    {
+      "id": 14,
+      "Hotel_Name": "Windmill Craftworks",
+      "city": " Whitefield,Bengaluru",
+      "Specialty": "Microbrewery and jazz music venue",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 15,
+      "Hotel_Name": "Roti Ghar",
+      "city": "Basavanagudi,Bengaluru",
+      "Specialty": " South-Indian Meals,Shavige bath",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 16,
+      "Hotel_Name": "Roti Ghar",
+      "city": "Basavanagudi,Bengaluru",
+      "Specialty": " South-Indian Meals,Shavige bath",
+      "RestaurantType": "Vegetarian"
+    },
+    {
+      "id": 17,
+      "Hotel_Name": "Hard Rock Cafe Bengaluru",
+      "city": "St. Marks Road,Bengaluru",
+      "Specialty": "Burgers and music venue",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 18,
+      "Hotel_Name": "Shiro’s",
+      "city": "Vittal Mallya Road,Bengaluru",
+      "Specialty": "Japanese cuisine",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 19,
+      "Hotel_Name": "Imperial Restaurant, Residency Road",
+      "city": "Residency Road,Bengaluru",
+      "Specialty": "Chicken Kebab, Tandoori Chicken, Chicken Biryani",
+      "RestaurantType": "Non-vegetarian"
+    },
+    {
+      "id": 20,
+      "Hotel_Name": " Empire Restaurant, Church Street",
+      "city": "Ashok Nagar, Bengaluru",
+      "Specialty": "Paneer Tikka, Pepper Chicken, and Jumbo Shawarma",
+      "RestaurantType": "Non-vegetarian"
+    }
+  ]
+}
